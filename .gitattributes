@@ -32,6 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# X BitMap source file
+*.xbm linguist-detectable=true
+*.xbm linguist-documentation=false
+*.xbm linguist-language=X-BitMap
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -134,7 +138,7 @@
 *.cff linguist-documentation=false
 *.cff linguist-language=Citation-File-Format
 # PNG/PNS
-*.png linguist-detectable=false
+*.png linguist-detectable=A
 *.png linguist-documentation=false
 *.png linguist-language=PNG
 *.pns linguist-detectable=false
@@ -161,10 +165,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2025, Friday, May 16th at 09:25 pm PST)
+# Line count (including blank lines and compiler line): 178
+
 # End of script
